@@ -1,2 +1,1 @@
-# Biologically-inspired-computing
-Artificial intelligence
+An introduction to self-adapting methods also called artificial intelligence or machine learning. Schemes for classification, search and optimization based on bio-inspired mechanisms are introduced. This includes evolutionary computation, artificial neural networks and more specialized approaches like e.g. swarm intelligence and artificial immune systems. Further, an overview of alternative traditional methods will also be included.
